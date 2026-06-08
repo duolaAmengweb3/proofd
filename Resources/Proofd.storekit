@@ -1,0 +1,12 @@
+{
+  "identifier" : "PROOFD-SK",
+  "nonRenewingSubscriptions" : [],
+  "products" : [{
+    "displayPrice" : "19.99", "familyShareable" : false, "internalID" : "PROOFDPRO01",
+    "localizations" : [{ "description" : "Unlimited diagnoses, feeding schedule, crumb before/after, PDF export, custom recipes — one-time.", "displayName" : "Proofd Pro", "locale" : "en_US" }],
+    "productID" : "com.duolaameng.proofd.pro", "referenceName" : "Proofd Pro", "type" : "NonConsumable"
+  }],
+  "settings" : { "_failTransactionsEnabled" : false },
+  "subscriptionGroups" : [],
+  "version" : { "major" : 3, "minor" : 0 }
+}
