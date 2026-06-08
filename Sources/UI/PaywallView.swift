@@ -5,10 +5,10 @@ struct PaywallView: View {
     @Environment(\.dismiss) private var dismiss
     private let perks: [(String, String)] = [
         ("infinity", "Unlimited starter & crumb diagnoses"),
-        ("chart.line.uptrend.xyaxis", "Crumb diagnosis with before / after"),
-        ("bell.badge", "Smart feeding schedule & reminders"),
+        ("chart.line.uptrend.xyaxis", "Crumb before / after comparison"),
         ("doc.richtext", "Export your bake journal as PDF"),
-        ("book", "Save your own recipes & unlimited Q&A")
+        ("book", "Save your own recipes"),
+        ("bubble.left.and.text.bubble.right", "Unlimited expert Q&A")
     ]
     var body: some View {
         VStack(spacing: 0) {

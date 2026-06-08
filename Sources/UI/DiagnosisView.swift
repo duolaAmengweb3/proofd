@@ -6,6 +6,7 @@ struct DiagnosisView: View {
     @EnvironmentObject var store: Store
     @Environment(\.dismiss) private var dismiss
     @State private var showPaywall = false
+    @State private var showCompare = false
     @State private var saved = false
 
     var body: some View {
@@ -41,7 +42,7 @@ struct DiagnosisView: View {
 
                     // crumb before/after — a Pro perk
                     if d.kind == "Crumb" {
-                        Button { if !store.isPro { showPaywall = true } } label: {
+                        Button { store.isPro ? (showCompare = true) : (showPaywall = true) } label: {
                             HStack(spacing: 10) {
                                 Image(systemName: store.isPro ? "rectangle.on.rectangle" : "lock.fill").foregroundStyle(Theme.crust)
                                 Text(store.isPro ? "Compare with a previous bake" : "Compare before / after — Pro").font(.subheadline.weight(.medium)).foregroundStyle(Theme.ink)
@@ -68,6 +69,8 @@ struct DiagnosisView: View {
             .toolbar { ToolbarItem(placement: .topBarTrailing) { Button { dismiss() } label: { Image(systemName: "xmark").foregroundStyle(Theme.inkMid) } } }
             .toolbarBackground(Theme.canvas, for: .navigationBar)
             .sheet(isPresented: $showPaywall) { PaywallView() }
+            .sheet(isPresented: $showCompare) { CompareView(current: d) }
+            .onAppear { if ProcessInfo.processInfo.arguments.contains("-compare") { showCompare = true } }
         }
     }
     private var shareText: String { "Proofd — \(d.kind): \(d.verdict)\n\n\(d.detail)" }

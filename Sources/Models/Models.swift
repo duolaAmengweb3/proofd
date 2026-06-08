@@ -26,6 +26,9 @@ struct Bake: Identifiable, Codable, Hashable {
     var note: String
     var tint: UInt
     var date: Date = Date()
+    var verdict: String? = nil          // the diagnosis it was saved from (for before/after compare)
+    var stateRaw: String? = nil
+    var state: StarterState { stateRaw.flatMap { StarterState(rawValue: $0) } ?? .peak }
 }
 
 struct Recipe: Identifiable, Codable, Hashable {

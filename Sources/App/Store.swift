@@ -25,7 +25,18 @@ final class Store: ObservableObject {
     static let freeAsksPerDay = 2
 
     private let key = "proofd.store.v1"
-    init() { load() }
+    init() {
+        load()
+        let a = ProcessInfo.processInfo.arguments
+        if a.contains("-pro") { isPro = true }
+        if a.contains("-seed") && bakes.isEmpty {
+            lastStarter = Sample.todayStarter
+            bakes = [
+                Bake(title: "Country sourdough", dateLabel: "Yesterday", score: 4, note: "Best ear yet. Crumb a little tight.", tint: 0xC9A876, verdict: "Nice spring with a slightly tight crumb near the base.", stateRaw: "peak"),
+                Bake(title: "Seeded batard", dateLabel: "3 days ago", score: 3, note: "Underproofed, gummy near base.", tint: 0xB98A55, verdict: "Under-proofed — a faint dense band just above the bottom crust.", stateRaw: "sluggish")
+            ]
+        }
+    }
 
     var hasStarter: Bool { lastStarter != nil || !bakes.isEmpty }
     private func today() -> String { let f = DateFormatter(); f.dateFormat = "yyyy-MM-dd"; return f.string(from: Date()) }
@@ -53,9 +64,13 @@ final class Store: ObservableObject {
     func saveDiagnosisAsBake(_ d: Diagnosis) {
         if d.kind == "Starter" { setStarter(d) }
         else {
-            addBake(Bake(title: "Bake", dateLabel: "Today", score: d.state == .peak ? 5 : 3, note: d.verdict, tint: 0xC9A876))
+            let f = DateFormatter(); f.dateFormat = "MMM d"
+            addBake(Bake(title: "Sourdough — \(f.string(from: Date()))", dateLabel: "Today",
+                         score: d.state == .peak ? 5 : (d.state == .sluggish ? 3 : 2),
+                         note: d.verdict, tint: 0xC9A876, verdict: d.verdict, stateRaw: d.state.rawValue))
         }
     }
+    var crumbBakes: [Bake] { bakes.filter { $0.verdict != nil } }
     func addRecipe(_ r: Recipe) { recipes.insert(r, at: 0); save() }
     func deleteRecipe(_ r: Recipe) { recipes.removeAll { $0.id == r.id }; save() }
     func markFed() { lastFedAt = Date(); save() }

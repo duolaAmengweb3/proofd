@@ -24,9 +24,10 @@ struct ToolsView: View {
                         sliderRow("Flour", "\(Int(flour)) g", $flour, 200...1200, 25, Theme.ink)
                         sliderRow("Hydration", "\(Int(hydration))%", $hydration, 60...95, 1, Theme.crust)
                         Divider().overlay(Theme.hairline).padding(.vertical, 2)
-                        recipeRow("Water", "\(water) g")
-                        recipeRow("Starter (20%)", "\(Int(flour*0.20)) g")
+                        recipeRow("Water", amt(water, 237))
+                        recipeRow("Starter (20%)", amt(Int(flour*0.20), 227))
                         recipeRow("Salt (2%)", "\(Int(flour*0.02)) g")
+                        if store.useCups { Text("Cups shown — toggle in Settings.").font(.caption2).foregroundStyle(Theme.inkLow) }
                     }.card(20)
 
                     VStack(alignment: .leading, spacing: 16) {
@@ -70,6 +71,11 @@ struct ToolsView: View {
             .sheet(isPresented: $showPaywall) { PaywallView() }
             .sheet(isPresented: $showAsk) { AskView() }
             .sheet(isPresented: $showRecipes) { RecipesView() }
+            .onAppear {
+                let a = ProcessInfo.processInfo.arguments
+                if a.contains("-ask") { showAsk = true }
+                if a.contains("-recipes") { showRecipes = true }
+            }
         }
     }
 
@@ -96,4 +102,5 @@ struct ToolsView: View {
             Text(v).font(.system(.headline, design: .rounded)).foregroundStyle(Theme.ink).monospacedDigit() }
     }
     private func fmtCups(_ c: Double) -> String { let q = (c*4).rounded()/4; return q == q.rounded() ? String(Int(q)) : String(format: "%.2f", q) }
+    private func amt(_ g: Int, _ perCup: Double) -> String { store.useCups ? "\(g) g · ≈\(fmtCups(Double(g)/perCup)) c" : "\(g) g" }
 }

@@ -4,6 +4,7 @@ import SwiftUI
 struct ProofdApp: App {
     @StateObject private var store = Store()
     @StateObject private var pro = ProStore()
+    private var testPro: Bool { ProcessInfo.processInfo.arguments.contains("-pro") }
 
     var body: some Scene {
         WindowGroup {
@@ -18,8 +19,8 @@ struct ProofdApp: App {
             .environmentObject(pro)
             .tint(Theme.crust)
             .preferredColorScheme(.light)
-            .task { await pro.load(); store.isPro = pro.isPro; store.persist() }
-            .onChange(of: pro.isPro) { _, v in store.isPro = v; store.persist() }
+            .task { await pro.load(); store.isPro = pro.isPro || testPro; store.persist() }
+            .onChange(of: pro.isPro) { _, v in store.isPro = v || testPro; store.persist() }
         }
     }
 }
