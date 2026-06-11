@@ -30,3 +30,7 @@ targets:
       properties:
         UILaunchScreen: {}
         UISupportedInterfaceOrientations: [UIInterfaceOrientationPortrait]
+        UIUserInterfaceStyle: Light
+        ITSAppUsesNonExemptEncryption: false
+        NSCameraUsageDescription: "Proofd uses the camera to diagnose your sourdough starter and crumb."
+        NSPhotoLibraryUsageDescription: "Add photos of your starter or bakes from your library to diagnose them."

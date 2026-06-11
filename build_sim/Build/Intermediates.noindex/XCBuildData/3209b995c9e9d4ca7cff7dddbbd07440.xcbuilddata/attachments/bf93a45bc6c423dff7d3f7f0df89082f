@@ -1,0 +1,218 @@
+{
+  "" : {
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Proofd-master.dia",
+    "emit-module-dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Proofd-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Proofd-master-emit-module.dia",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Proofd-master.swiftdeps"
+  },
+  "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/Sources/App/ProofdApp.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ProofdApp.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ProofdApp.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ProofdApp.dia",
+    "index-unit-output-path" : "/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ProofdApp.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ProofdApp.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ProofdApp.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ProofdApp.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ProofdApp~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/Sources/App/Store.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Store.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Store.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Store.dia",
+    "index-unit-output-path" : "/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Store.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Store.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Store.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Store.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Store~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/Sources/Core/CameraPicker.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/CameraPicker.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/CameraPicker.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/CameraPicker.dia",
+    "index-unit-output-path" : "/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/CameraPicker.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/CameraPicker.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/CameraPicker.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/CameraPicker.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/CameraPicker~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/Sources/Core/ProStore.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ProStore.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ProStore.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ProStore.dia",
+    "index-unit-output-path" : "/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ProStore.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ProStore.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ProStore.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ProStore.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ProStore~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/Sources/Core/ProofdAPI.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ProofdAPI.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ProofdAPI.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ProofdAPI.dia",
+    "index-unit-output-path" : "/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ProofdAPI.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ProofdAPI.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ProofdAPI.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ProofdAPI.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ProofdAPI~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/Sources/Models/Models.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Models.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Models.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Models.dia",
+    "index-unit-output-path" : "/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Models.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Models.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Models.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Models.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Models~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/Sources/UI/AskView.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/AskView.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/AskView.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/AskView.dia",
+    "index-unit-output-path" : "/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/AskView.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/AskView.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/AskView.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/AskView.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/AskView~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/Sources/UI/CompareView.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/CompareView.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/CompareView.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/CompareView.dia",
+    "index-unit-output-path" : "/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/CompareView.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/CompareView.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/CompareView.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/CompareView.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/CompareView~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/Sources/UI/Components.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Components.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Components.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Components.dia",
+    "index-unit-output-path" : "/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Components.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Components.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Components.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Components.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Components~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/Sources/UI/DiagnosisView.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/DiagnosisView.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/DiagnosisView.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/DiagnosisView.dia",
+    "index-unit-output-path" : "/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/DiagnosisView.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/DiagnosisView.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/DiagnosisView.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/DiagnosisView.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/DiagnosisView~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/Sources/UI/FeedingView.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/FeedingView.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/FeedingView.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/FeedingView.dia",
+    "index-unit-output-path" : "/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/FeedingView.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/FeedingView.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/FeedingView.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/FeedingView.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/FeedingView~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/Sources/UI/JournalView.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/JournalView.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/JournalView.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/JournalView.dia",
+    "index-unit-output-path" : "/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/JournalView.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/JournalView.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/JournalView.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/JournalView.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/JournalView~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/Sources/UI/OnboardingView.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/OnboardingView.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/OnboardingView.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/OnboardingView.dia",
+    "index-unit-output-path" : "/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/OnboardingView.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/OnboardingView.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/OnboardingView.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/OnboardingView.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/OnboardingView~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/Sources/UI/PaywallView.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/PaywallView.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/PaywallView.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/PaywallView.dia",
+    "index-unit-output-path" : "/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/PaywallView.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/PaywallView.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/PaywallView.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/PaywallView.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/PaywallView~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/Sources/UI/RootView.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/RootView.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/RootView.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/RootView.dia",
+    "index-unit-output-path" : "/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/RootView.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/RootView.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/RootView.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/RootView.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/RootView~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/Sources/UI/ScanView.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ScanView.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ScanView.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ScanView.dia",
+    "index-unit-output-path" : "/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ScanView.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ScanView.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ScanView.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ScanView.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ScanView~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/Sources/UI/SettingsView.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/SettingsView.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/SettingsView.dia",
+    "index-unit-output-path" : "/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/SettingsView.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/SettingsView.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/SettingsView.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/SettingsView.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/SettingsView~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/Sources/UI/Theme.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Theme.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Theme.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Theme.dia",
+    "index-unit-output-path" : "/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Theme.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Theme.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Theme.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Theme.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/Theme~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/Sources/UI/TodayView.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/TodayView.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/TodayView.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/TodayView.dia",
+    "index-unit-output-path" : "/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/TodayView.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/TodayView.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/TodayView.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/TodayView.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/TodayView~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/Sources/UI/ToolsView.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ToolsView.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ToolsView.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ToolsView.dia",
+    "index-unit-output-path" : "/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ToolsView.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ToolsView.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ToolsView.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ToolsView.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/ToolsView~partial.swiftmodule"
+  },
+  "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/duolaameng/Desktop/applestore/23_Proofd/ProofdApp/build_sim/Build/Intermediates.noindex/Proofd.build/Debug-iphonesimulator/Proofd.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}
